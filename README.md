@@ -67,6 +67,9 @@ Hi, I'm Lokesh, a Computer Science undergraduate at IIIT Nagpur who enjoys build
   <a href="https://linkedin.com/in/lokesh-chaudhari-9a47b5238/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://leetcode.com/u/Lokesh_275/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
   <a href="https://instagram.com/lokeshschaudhari">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
